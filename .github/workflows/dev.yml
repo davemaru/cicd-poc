@@ -66,4 +66,4 @@ jobs:
          -Dmule.artifact=$artifactName \
          -Danypoint.username="$USERNAME" \
          -Danypoint.password="$PASSWORD" \
-         -Dmule.env=Dev
+         -Dmule.env=DEV
